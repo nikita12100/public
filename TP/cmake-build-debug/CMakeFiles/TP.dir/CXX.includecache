@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+string
+-
+
+C:/Users/User/CLionProjects/1_faculty/TP/balck_unit.h
+Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/main.cpp
+iostream
+-
+white_unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/white_unit.h
+balck_unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/balck_unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/white_unit.h
+Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+
