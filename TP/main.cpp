@@ -1,10 +1,10 @@
 #include <iostream>
-#include "white_unit.h"
-#include "balck_unit.h"
-#include "Generate_Unit.h"
+#include "white_unit.cpp"
+#include "balck_unit.cpp"
+#include "Generate_Unit.cpp"
 using namespace std;
 
-int main(){
+int main() {
   cout << "Write name:";
   string name = 0;
   cin >> name;
@@ -25,7 +25,7 @@ int main(){
   int hieght = 0;
   cin >> hieght;
 
-  Generate_Unit unit_1 = (name, color, sex, weight, hieght);
+  Generate_Unit unit_1(name, color, sex, weight, hieght);
 
   return 0;
 }

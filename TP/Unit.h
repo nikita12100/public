@@ -4,21 +4,29 @@
 
 using namespace std;
 
+struct Param {
+  string name;
+  int color;
+  int sex;
+  int weight;
+  int height;
+};
+
 class Unit {
  public:
   /// внешность
   int sex;  // пол 1-м 2-ж
   string name;
 
-  void skin_colort(int w);
-  void sex(int w);
+  void skin_colort(int arg);
+  void sex(int arg);
   void Set_name(string n);
-  virtual void Set_weight(int w);
-  virtual void Set_heigt(int w);
-  virtual void Set_mind(int w);
-  virtual void Set_charisma(int w);
-  virtual void Set_power(int w);
-  virtual void Set_speed(int w);
+  virtual void Set_weight(int arg);
+  virtual void Set_heigt(int arg);
+  virtual void Set_mind(int arg);
+  virtual void Set_charisma(int arg);
+  virtual void Set_power(int arg);
+  virtual void Set_speed(int arg);
 
  protected:
 
@@ -32,6 +40,5 @@ class Unit {
   int speed;
 
 };
-
 
 #endif //TP_UNIT_H

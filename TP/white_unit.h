@@ -1,14 +1,14 @@
 #pragma once
-#include "Unit.h"
+#include "Unit.cpp"
 
 #ifndef TP_WHITE_UNIT_H
 #define TP_WHITE_UNIT_H
 
-class white_unit: public Unit {
+class white_unit : public Unit {
  public:
 
-  virtual void Set_mind(int w);
-  virtual void Set_charisma(int w);
+  virtual void Set_mind(int arg);
+  virtual void Set_charisma(int arg);
 
  private:
 
