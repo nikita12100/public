@@ -122,6 +122,114 @@ TP/fast:
 	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/build
 .PHONY : TP/fast
 
+Decorator.obj: Decorator.cpp.obj
+
+.PHONY : Decorator.obj
+
+# target to build an object file
+Decorator.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Decorator.cpp.obj
+.PHONY : Decorator.cpp.obj
+
+Decorator.i: Decorator.cpp.i
+
+.PHONY : Decorator.i
+
+# target to preprocess a source file
+Decorator.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Decorator.cpp.i
+.PHONY : Decorator.cpp.i
+
+Decorator.s: Decorator.cpp.s
+
+.PHONY : Decorator.s
+
+# target to generate assembly for a file
+Decorator.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Decorator.cpp.s
+.PHONY : Decorator.cpp.s
+
+Generate_Unit.obj: Generate_Unit.cpp.obj
+
+.PHONY : Generate_Unit.obj
+
+# target to build an object file
+Generate_Unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Generate_Unit.cpp.obj
+.PHONY : Generate_Unit.cpp.obj
+
+Generate_Unit.i: Generate_Unit.cpp.i
+
+.PHONY : Generate_Unit.i
+
+# target to preprocess a source file
+Generate_Unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Generate_Unit.cpp.i
+.PHONY : Generate_Unit.cpp.i
+
+Generate_Unit.s: Generate_Unit.cpp.s
+
+.PHONY : Generate_Unit.s
+
+# target to generate assembly for a file
+Generate_Unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Generate_Unit.cpp.s
+.PHONY : Generate_Unit.cpp.s
+
+Unit.obj: Unit.cpp.obj
+
+.PHONY : Unit.obj
+
+# target to build an object file
+Unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Unit.cpp.obj
+.PHONY : Unit.cpp.obj
+
+Unit.i: Unit.cpp.i
+
+.PHONY : Unit.i
+
+# target to preprocess a source file
+Unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Unit.cpp.i
+.PHONY : Unit.cpp.i
+
+Unit.s: Unit.cpp.s
+
+.PHONY : Unit.s
+
+# target to generate assembly for a file
+Unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Unit.cpp.s
+.PHONY : Unit.cpp.s
+
+black_unit.obj: black_unit.cpp.obj
+
+.PHONY : black_unit.obj
+
+# target to build an object file
+black_unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/black_unit.cpp.obj
+.PHONY : black_unit.cpp.obj
+
+black_unit.i: black_unit.cpp.i
+
+.PHONY : black_unit.i
+
+# target to preprocess a source file
+black_unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/black_unit.cpp.i
+.PHONY : black_unit.cpp.i
+
+black_unit.s: black_unit.cpp.s
+
+.PHONY : black_unit.s
+
+# target to generate assembly for a file
+black_unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/black_unit.cpp.s
+.PHONY : black_unit.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +266,18 @@ help:
 	@echo ... TP
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Decorator.obj
+	@echo ... Decorator.i
+	@echo ... Decorator.s
+	@echo ... Generate_Unit.obj
+	@echo ... Generate_Unit.i
+	@echo ... Generate_Unit.s
+	@echo ... Unit.obj
+	@echo ... Unit.i
+	@echo ... Unit.s
+	@echo ... black_unit.obj
+	@echo ... black_unit.i
+	@echo ... black_unit.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -6,23 +6,67 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.cpp
+Abstract_Generate_Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Decorator.cpp
+Decorator.h
+C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h
+Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.cpp
+Generate_Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.h
+map
+-
+Unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.cpp
+Abstract_Generate_Unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.cpp
+white_unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/white_unit.cpp
+black_unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp
+
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.cpp
+Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+
 C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
 string
 -
 
-C:/Users/User/CLionProjects/1_faculty/TP/balck_unit.h
-Unit.h
-C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp
+black_unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/black_unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/black_unit.h
+Decorator.h
+C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h
 
 C:/Users/User/CLionProjects/1_faculty/TP/main.cpp
 iostream
 -
+white_unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/white_unit.cpp
+black_unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp
+Generate_Unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.cpp
+
+C:/Users/User/CLionProjects/1_faculty/TP/white_unit.cpp
 white_unit.h
 C:/Users/User/CLionProjects/1_faculty/TP/white_unit.h
-balck_unit.h
-C:/Users/User/CLionProjects/1_faculty/TP/balck_unit.h
 
 C:/Users/User/CLionProjects/1_faculty/TP/white_unit.h
-Unit.h
-C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+Decorator.h
+C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h
 

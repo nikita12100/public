@@ -1,5 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TP.dir/main.cpp.obj"
+  "CMakeFiles/TP.dir/Unit.cpp.obj"
+  "CMakeFiles/TP.dir/Decorator.cpp.obj"
+  "CMakeFiles/TP.dir/black_unit.cpp.obj"
+  "CMakeFiles/TP.dir/Generate_Unit.cpp.obj"
   "TP.pdb"
   "TP.exe"
   "TP.exe.manifest"

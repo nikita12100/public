@@ -80,19 +80,123 @@ CMakeFiles/TP.dir/main.cpp.obj.provides: CMakeFiles/TP.dir/main.cpp.obj.requires
 CMakeFiles/TP.dir/main.cpp.obj.provides.build: CMakeFiles/TP.dir/main.cpp.obj
 
 
+CMakeFiles/TP.dir/Unit.cpp.obj: CMakeFiles/TP.dir/flags.make
+CMakeFiles/TP.dir/Unit.cpp.obj: ../Unit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\CLionProjects\1_faculty\TP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TP.dir/Unit.cpp.obj"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TP.dir\Unit.cpp.obj -c C:\Users\User\CLionProjects\1_faculty\TP\Unit.cpp
+
+CMakeFiles/TP.dir/Unit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TP.dir/Unit.cpp.i"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\CLionProjects\1_faculty\TP\Unit.cpp > CMakeFiles\TP.dir\Unit.cpp.i
+
+CMakeFiles/TP.dir/Unit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TP.dir/Unit.cpp.s"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\CLionProjects\1_faculty\TP\Unit.cpp -o CMakeFiles\TP.dir\Unit.cpp.s
+
+CMakeFiles/TP.dir/Unit.cpp.obj.requires:
+
+.PHONY : CMakeFiles/TP.dir/Unit.cpp.obj.requires
+
+CMakeFiles/TP.dir/Unit.cpp.obj.provides: CMakeFiles/TP.dir/Unit.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Unit.cpp.obj.provides.build
+.PHONY : CMakeFiles/TP.dir/Unit.cpp.obj.provides
+
+CMakeFiles/TP.dir/Unit.cpp.obj.provides.build: CMakeFiles/TP.dir/Unit.cpp.obj
+
+
+CMakeFiles/TP.dir/Decorator.cpp.obj: CMakeFiles/TP.dir/flags.make
+CMakeFiles/TP.dir/Decorator.cpp.obj: ../Decorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\CLionProjects\1_faculty\TP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TP.dir/Decorator.cpp.obj"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TP.dir\Decorator.cpp.obj -c C:\Users\User\CLionProjects\1_faculty\TP\Decorator.cpp
+
+CMakeFiles/TP.dir/Decorator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TP.dir/Decorator.cpp.i"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\CLionProjects\1_faculty\TP\Decorator.cpp > CMakeFiles\TP.dir\Decorator.cpp.i
+
+CMakeFiles/TP.dir/Decorator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TP.dir/Decorator.cpp.s"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\CLionProjects\1_faculty\TP\Decorator.cpp -o CMakeFiles\TP.dir\Decorator.cpp.s
+
+CMakeFiles/TP.dir/Decorator.cpp.obj.requires:
+
+.PHONY : CMakeFiles/TP.dir/Decorator.cpp.obj.requires
+
+CMakeFiles/TP.dir/Decorator.cpp.obj.provides: CMakeFiles/TP.dir/Decorator.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Decorator.cpp.obj.provides.build
+.PHONY : CMakeFiles/TP.dir/Decorator.cpp.obj.provides
+
+CMakeFiles/TP.dir/Decorator.cpp.obj.provides.build: CMakeFiles/TP.dir/Decorator.cpp.obj
+
+
+CMakeFiles/TP.dir/black_unit.cpp.obj: CMakeFiles/TP.dir/flags.make
+CMakeFiles/TP.dir/black_unit.cpp.obj: ../black_unit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\CLionProjects\1_faculty\TP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TP.dir/black_unit.cpp.obj"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TP.dir\black_unit.cpp.obj -c C:\Users\User\CLionProjects\1_faculty\TP\black_unit.cpp
+
+CMakeFiles/TP.dir/black_unit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TP.dir/black_unit.cpp.i"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\CLionProjects\1_faculty\TP\black_unit.cpp > CMakeFiles\TP.dir\black_unit.cpp.i
+
+CMakeFiles/TP.dir/black_unit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TP.dir/black_unit.cpp.s"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\CLionProjects\1_faculty\TP\black_unit.cpp -o CMakeFiles\TP.dir\black_unit.cpp.s
+
+CMakeFiles/TP.dir/black_unit.cpp.obj.requires:
+
+.PHONY : CMakeFiles/TP.dir/black_unit.cpp.obj.requires
+
+CMakeFiles/TP.dir/black_unit.cpp.obj.provides: CMakeFiles/TP.dir/black_unit.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/black_unit.cpp.obj.provides.build
+.PHONY : CMakeFiles/TP.dir/black_unit.cpp.obj.provides
+
+CMakeFiles/TP.dir/black_unit.cpp.obj.provides.build: CMakeFiles/TP.dir/black_unit.cpp.obj
+
+
+CMakeFiles/TP.dir/Generate_Unit.cpp.obj: CMakeFiles/TP.dir/flags.make
+CMakeFiles/TP.dir/Generate_Unit.cpp.obj: ../Generate_Unit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\CLionProjects\1_faculty\TP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TP.dir/Generate_Unit.cpp.obj"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TP.dir\Generate_Unit.cpp.obj -c C:\Users\User\CLionProjects\1_faculty\TP\Generate_Unit.cpp
+
+CMakeFiles/TP.dir/Generate_Unit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TP.dir/Generate_Unit.cpp.i"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\CLionProjects\1_faculty\TP\Generate_Unit.cpp > CMakeFiles\TP.dir\Generate_Unit.cpp.i
+
+CMakeFiles/TP.dir/Generate_Unit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TP.dir/Generate_Unit.cpp.s"
+	"C:\Program Files (x86)\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\CLionProjects\1_faculty\TP\Generate_Unit.cpp -o CMakeFiles\TP.dir\Generate_Unit.cpp.s
+
+CMakeFiles/TP.dir/Generate_Unit.cpp.obj.requires:
+
+.PHONY : CMakeFiles/TP.dir/Generate_Unit.cpp.obj.requires
+
+CMakeFiles/TP.dir/Generate_Unit.cpp.obj.provides: CMakeFiles/TP.dir/Generate_Unit.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Generate_Unit.cpp.obj.provides.build
+.PHONY : CMakeFiles/TP.dir/Generate_Unit.cpp.obj.provides
+
+CMakeFiles/TP.dir/Generate_Unit.cpp.obj.provides.build: CMakeFiles/TP.dir/Generate_Unit.cpp.obj
+
+
 # Object files for target TP
 TP_OBJECTS = \
-"CMakeFiles/TP.dir/main.cpp.obj"
+"CMakeFiles/TP.dir/main.cpp.obj" \
+"CMakeFiles/TP.dir/Unit.cpp.obj" \
+"CMakeFiles/TP.dir/Decorator.cpp.obj" \
+"CMakeFiles/TP.dir/black_unit.cpp.obj" \
+"CMakeFiles/TP.dir/Generate_Unit.cpp.obj"
 
 # External object files for target TP
 TP_EXTERNAL_OBJECTS =
 
 TP.exe: CMakeFiles/TP.dir/main.cpp.obj
+TP.exe: CMakeFiles/TP.dir/Unit.cpp.obj
+TP.exe: CMakeFiles/TP.dir/Decorator.cpp.obj
+TP.exe: CMakeFiles/TP.dir/black_unit.cpp.obj
+TP.exe: CMakeFiles/TP.dir/Generate_Unit.cpp.obj
 TP.exe: CMakeFiles/TP.dir/build.make
 TP.exe: CMakeFiles/TP.dir/linklibs.rsp
 TP.exe: CMakeFiles/TP.dir/objects1.rsp
 TP.exe: CMakeFiles/TP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\CLionProjects\1_faculty\TP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TP.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\CLionProjects\1_faculty\TP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable TP.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\TP.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -101,6 +205,10 @@ CMakeFiles/TP.dir/build: TP.exe
 .PHONY : CMakeFiles/TP.dir/build
 
 CMakeFiles/TP.dir/requires: CMakeFiles/TP.dir/main.cpp.obj.requires
+CMakeFiles/TP.dir/requires: CMakeFiles/TP.dir/Unit.cpp.obj.requires
+CMakeFiles/TP.dir/requires: CMakeFiles/TP.dir/Decorator.cpp.obj.requires
+CMakeFiles/TP.dir/requires: CMakeFiles/TP.dir/black_unit.cpp.obj.requires
+CMakeFiles/TP.dir/requires: CMakeFiles/TP.dir/Generate_Unit.cpp.obj.requires
 
 .PHONY : CMakeFiles/TP.dir/requires
 

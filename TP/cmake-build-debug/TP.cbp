@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Decorator.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Unit.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/black_unit.h">
+			<Option target="TP"/>
+		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/main.cpp">
 			<Option target="TP"/>
 		</Unit>

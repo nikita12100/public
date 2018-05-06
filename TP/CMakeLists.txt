@@ -3,5 +3,5 @@ project(TP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp Unit.cpp Decorator.cpp black_unit.cpp Generate_Unit.cpp)
 add_executable(TP ${SOURCE_FILES})

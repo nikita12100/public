@@ -1,14 +1,14 @@
 #pragma once
-#include "Unit.cpp"
+#include "Decorator.h"
 
 #ifndef TP_WHITE_UNIT_H
 #define TP_WHITE_UNIT_H
 
-class white_unit : public Unit {
+class white_unit : public Decorator {
  public:
 
-  virtual void Set_mind(int arg);
-  virtual void Set_charisma(int arg);
+  void Set_mind(int arg) override;
+  void Set_charisma(int arg) override;
 
  private:
 

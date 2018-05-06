@@ -8,7 +8,7 @@ void Unit::skin_colort(int arg) {
   skin_color = arg;
 }
 
-void Unit::sex(int arg) {
+void Unit::Set_sex(int arg) {
   sex = arg;
 }
 

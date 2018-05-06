@@ -19,7 +19,7 @@ class Unit {
   string name;
 
   void skin_colort(int arg);
-  void sex(int arg);
+  void Set_sex(int arg);
   void Set_name(string n);
   virtual void Set_weight(int arg);
   virtual void Set_heigt(int arg);

@@ -1,6 +1,6 @@
 #include <iostream>
 #include "white_unit.cpp"
-#include "balck_unit.cpp"
+#include "black_unit.cpp"
 #include "Generate_Unit.cpp"
 using namespace std;
 

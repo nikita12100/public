@@ -1,18 +1,11 @@
 #ifndef TP_GENERATE_UNIT_H
 #define TP_GENERATE_UNIT_H
 
+#include <map>
 #include "Unit.cpp"
 #include "Abstract_Generate_Unit.cpp"
 #include "white_unit.cpp"
-#include "balck_unit.cpp"
-
-struct Param {
-  string name;
-  int color;
-  int sex;
-  int weight;
-  int height;
-};
+#include "black_unit.cpp"
 
 class Generate_Unit {
  protected:
