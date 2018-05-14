@@ -122,6 +122,87 @@ TP/fast:
 	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/build
 .PHONY : TP/fast
 
+Abstract_Generate_Unit.obj: Abstract_Generate_Unit.cpp.obj
+
+.PHONY : Abstract_Generate_Unit.obj
+
+# target to build an object file
+Abstract_Generate_Unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Abstract_Generate_Unit.cpp.obj
+.PHONY : Abstract_Generate_Unit.cpp.obj
+
+Abstract_Generate_Unit.i: Abstract_Generate_Unit.cpp.i
+
+.PHONY : Abstract_Generate_Unit.i
+
+# target to preprocess a source file
+Abstract_Generate_Unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Abstract_Generate_Unit.cpp.i
+.PHONY : Abstract_Generate_Unit.cpp.i
+
+Abstract_Generate_Unit.s: Abstract_Generate_Unit.cpp.s
+
+.PHONY : Abstract_Generate_Unit.s
+
+# target to generate assembly for a file
+Abstract_Generate_Unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Abstract_Generate_Unit.cpp.s
+.PHONY : Abstract_Generate_Unit.cpp.s
+
+Atack_Unit.obj: Atack_Unit.cpp.obj
+
+.PHONY : Atack_Unit.obj
+
+# target to build an object file
+Atack_Unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Atack_Unit.cpp.obj
+.PHONY : Atack_Unit.cpp.obj
+
+Atack_Unit.i: Atack_Unit.cpp.i
+
+.PHONY : Atack_Unit.i
+
+# target to preprocess a source file
+Atack_Unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Atack_Unit.cpp.i
+.PHONY : Atack_Unit.cpp.i
+
+Atack_Unit.s: Atack_Unit.cpp.s
+
+.PHONY : Atack_Unit.s
+
+# target to generate assembly for a file
+Atack_Unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Atack_Unit.cpp.s
+.PHONY : Atack_Unit.cpp.s
+
+Command.obj: Command.cpp.obj
+
+.PHONY : Command.obj
+
+# target to build an object file
+Command.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Command.cpp.obj
+.PHONY : Command.cpp.obj
+
+Command.i: Command.cpp.i
+
+.PHONY : Command.i
+
+# target to preprocess a source file
+Command.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Command.cpp.i
+.PHONY : Command.cpp.i
+
+Command.s: Command.cpp.s
+
+.PHONY : Command.s
+
+# target to generate assembly for a file
+Command.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Command.cpp.s
+.PHONY : Command.cpp.s
+
 Decorator.obj: Decorator.cpp.obj
 
 .PHONY : Decorator.obj
@@ -176,6 +257,33 @@ Generate_Unit.cpp.s:
 	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Generate_Unit.cpp.s
 .PHONY : Generate_Unit.cpp.s
 
+Move_Unit.obj: Move_Unit.cpp.obj
+
+.PHONY : Move_Unit.obj
+
+# target to build an object file
+Move_Unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Move_Unit.cpp.obj
+.PHONY : Move_Unit.cpp.obj
+
+Move_Unit.i: Move_Unit.cpp.i
+
+.PHONY : Move_Unit.i
+
+# target to preprocess a source file
+Move_Unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Move_Unit.cpp.i
+.PHONY : Move_Unit.cpp.i
+
+Move_Unit.s: Move_Unit.cpp.s
+
+.PHONY : Move_Unit.s
+
+# target to generate assembly for a file
+Move_Unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Move_Unit.cpp.s
+.PHONY : Move_Unit.cpp.s
+
 Unit.obj: Unit.cpp.obj
 
 .PHONY : Unit.obj
@@ -202,6 +310,60 @@ Unit.s: Unit.cpp.s
 Unit.cpp.s:
 	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/Unit.cpp.s
 .PHONY : Unit.cpp.s
+
+UnitCreator.obj: UnitCreator.cpp.obj
+
+.PHONY : UnitCreator.obj
+
+# target to build an object file
+UnitCreator.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/UnitCreator.cpp.obj
+.PHONY : UnitCreator.cpp.obj
+
+UnitCreator.i: UnitCreator.cpp.i
+
+.PHONY : UnitCreator.i
+
+# target to preprocess a source file
+UnitCreator.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/UnitCreator.cpp.i
+.PHONY : UnitCreator.cpp.i
+
+UnitCreator.s: UnitCreator.cpp.s
+
+.PHONY : UnitCreator.s
+
+# target to generate assembly for a file
+UnitCreator.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/UnitCreator.cpp.s
+.PHONY : UnitCreator.cpp.s
+
+War.obj: War.cpp.obj
+
+.PHONY : War.obj
+
+# target to build an object file
+War.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/War.cpp.obj
+.PHONY : War.cpp.obj
+
+War.i: War.cpp.i
+
+.PHONY : War.i
+
+# target to preprocess a source file
+War.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/War.cpp.i
+.PHONY : War.cpp.i
+
+War.s: War.cpp.s
+
+.PHONY : War.s
+
+# target to generate assembly for a file
+War.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/War.cpp.s
+.PHONY : War.cpp.s
 
 black_unit.obj: black_unit.cpp.obj
 
@@ -230,6 +392,33 @@ black_unit.cpp.s:
 	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/black_unit.cpp.s
 .PHONY : black_unit.cpp.s
 
+horse_unit.obj: horse_unit.cpp.obj
+
+.PHONY : horse_unit.obj
+
+# target to build an object file
+horse_unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/horse_unit.cpp.obj
+.PHONY : horse_unit.cpp.obj
+
+horse_unit.i: horse_unit.cpp.i
+
+.PHONY : horse_unit.i
+
+# target to preprocess a source file
+horse_unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/horse_unit.cpp.i
+.PHONY : horse_unit.cpp.i
+
+horse_unit.s: horse_unit.cpp.s
+
+.PHONY : horse_unit.s
+
+# target to generate assembly for a file
+horse_unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/horse_unit.cpp.s
+.PHONY : horse_unit.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -257,6 +446,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+white_unit.obj: white_unit.cpp.obj
+
+.PHONY : white_unit.obj
+
+# target to build an object file
+white_unit.cpp.obj:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/white_unit.cpp.obj
+.PHONY : white_unit.cpp.obj
+
+white_unit.i: white_unit.cpp.i
+
+.PHONY : white_unit.i
+
+# target to preprocess a source file
+white_unit.cpp.i:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/white_unit.cpp.i
+.PHONY : white_unit.cpp.i
+
+white_unit.s: white_unit.cpp.s
+
+.PHONY : white_unit.s
+
+# target to generate assembly for a file
+white_unit.cpp.s:
+	$(MAKE) -f CMakeFiles\TP.dir\build.make CMakeFiles/TP.dir/white_unit.cpp.s
+.PHONY : white_unit.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -266,21 +482,45 @@ help:
 	@echo ... TP
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Abstract_Generate_Unit.obj
+	@echo ... Abstract_Generate_Unit.i
+	@echo ... Abstract_Generate_Unit.s
+	@echo ... Atack_Unit.obj
+	@echo ... Atack_Unit.i
+	@echo ... Atack_Unit.s
+	@echo ... Command.obj
+	@echo ... Command.i
+	@echo ... Command.s
 	@echo ... Decorator.obj
 	@echo ... Decorator.i
 	@echo ... Decorator.s
 	@echo ... Generate_Unit.obj
 	@echo ... Generate_Unit.i
 	@echo ... Generate_Unit.s
+	@echo ... Move_Unit.obj
+	@echo ... Move_Unit.i
+	@echo ... Move_Unit.s
 	@echo ... Unit.obj
 	@echo ... Unit.i
 	@echo ... Unit.s
+	@echo ... UnitCreator.obj
+	@echo ... UnitCreator.i
+	@echo ... UnitCreator.s
+	@echo ... War.obj
+	@echo ... War.i
+	@echo ... War.s
 	@echo ... black_unit.obj
 	@echo ... black_unit.i
 	@echo ... black_unit.s
+	@echo ... horse_unit.obj
+	@echo ... horse_unit.i
+	@echo ... horse_unit.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... white_unit.obj
+	@echo ... white_unit.i
+	@echo ... white_unit.s
 .PHONY : help
 
 

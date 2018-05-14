@@ -1,15 +1,18 @@
-#pragma once
+//
+// Created by User on 014 14.05.18.
+//
+
+#ifndef TP_HORSE_UNIT_H
+#define TP_HORSE_UNIT_H
+
 #include "Decorator.h"
 
-#ifndef TP_WHITE_UNIT_H
-#define TP_WHITE_UNIT_H
-
-class white_unit : public Decorator {
+class horse_unit: public Decorator{
  public:
-  explicit white_unit(Param args);
+  explicit horse_unit(Param args);
 
-  void Set_mind(int arg) override;
-  void Set_charisma(int arg) override;
+  void Set_weight(int arg) override ;
+  void Set_speed(int arg) override ;
 
  private:
   int sex;  // пол 1-м 2-ж
@@ -24,6 +27,7 @@ class white_unit : public Decorator {
   int power;
   int speed;
   Origin origin;
+
 };
 
-#endif //TP_WHITE_UNIT_H
+#endif //TP_HORSE_UNIT_H

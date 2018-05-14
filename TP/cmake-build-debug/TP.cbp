@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Atack_Unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Atack_Unit.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Command.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Command.h">
+			<Option target="TP"/>
+		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Decorator.cpp">
 			<Option target="TP"/>
 		</Unit>
@@ -92,10 +110,28 @@
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Generate_Unit.h">
 			<Option target="TP"/>
 		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Move_Unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Move_Unit.h">
+			<Option target="TP"/>
+		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Unit.cpp">
 			<Option target="TP"/>
 		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/Unit.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/UnitCreator.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/UnitCreator.h">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/War.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/War.h">
 			<Option target="TP"/>
 		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp">
@@ -104,7 +140,19 @@
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/black_unit.h">
 			<Option target="TP"/>
 		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/horse_unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/horse_unit.h">
+			<Option target="TP"/>
+		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/main.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/white_unit.cpp">
+			<Option target="TP"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/white_unit.h">
 			<Option target="TP"/>
 		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/1_faculty/TP/CMakeLists.txt">

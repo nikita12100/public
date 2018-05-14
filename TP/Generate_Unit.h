@@ -13,7 +13,7 @@ class Generate_Unit {
   FactoryMap _factory;
 
  public:
-  Generate_Unit(string name, int color, int sex, int weight, int height);
+  Generate_Unit(string name, int color, int sex, int weight, int height, int mind, int charisma, int power, int speed, Origin origin);
   virtual ~Generate_Unit();
 
   template <class C>

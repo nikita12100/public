@@ -9,6 +9,7 @@
 
 class Decorator : public Unit {
  public:
+  Decorator() = default;
   explicit Decorator(Unit *inner);
 
   // здесь мы можем декорировать значения
@@ -18,6 +19,7 @@ class Decorator : public Unit {
   void Set_charisma(int arg) override;
   void Set_power(int arg) override;
   void Set_speed(int arg) override;
+  void Set_origin(int arg) override;
 
  private:
   Unit *wrapper;

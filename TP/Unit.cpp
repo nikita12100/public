@@ -17,7 +17,7 @@ void Unit::Set_weight(int arg) {
 }
 
 void Unit::Set_heigt(int arg) {
-  heigt = arg;
+  height = arg;
 }
 
 void Unit::Set_mind(int arg) {
@@ -34,4 +34,40 @@ void Unit::Set_power(int arg) {
 
 void Unit::Set_speed(int arg) {
   speed = arg;
+}
+
+void Unit::Set_origin(int arg) {
+  origin = Origin::man;
+}
+
+int Unit::Get_weight() {
+  return weight;
+}
+
+int Unit::Get_height(){
+  return height;
+}
+
+int Unit::Get_health(){
+  return health;
+}
+
+int Unit::Get_mind(){
+  return mind;
+}
+
+int Unit::Get_charisma(){
+  return charisma;
+}
+
+int Unit::Get_power(){
+  return power;
+}
+
+int Unit::Get_speed(){
+  return speed;
+}
+
+int Unit::Get_origin(){
+  return origin;
 }

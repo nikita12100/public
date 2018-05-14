@@ -31,3 +31,7 @@ void Decorator::Set_power(int arg) {
 void Decorator::Set_speed(int arg) {
   wrapper->Set_speed(arg);
 }
+
+void Decorator::Set_origin(int arg) {
+  wrapper->Set_origin(arg);
+}

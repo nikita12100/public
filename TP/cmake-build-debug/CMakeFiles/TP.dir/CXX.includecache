@@ -11,6 +11,26 @@ Abstract_Generate_Unit.h
 C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.h
 
 C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.h
+UnitCreator.h
+C:/Users/User/CLionProjects/1_faculty/TP/UnitCreator.h
+Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Atack_Unit.cpp
+Atack_Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Atack_Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Atack_Unit.h
+Command.h
+C:/Users/User/CLionProjects/1_faculty/TP/Command.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Command.cpp
+Command.h
+C:/Users/User/CLionProjects/1_faculty/TP/Command.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Command.h
+Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
 
 C:/Users/User/CLionProjects/1_faculty/TP/Decorator.cpp
 Decorator.h
@@ -36,6 +56,14 @@ C:/Users/User/CLionProjects/1_faculty/TP/white_unit.cpp
 black_unit.cpp
 C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp
 
+C:/Users/User/CLionProjects/1_faculty/TP/Move_Unit.cpp
+Move_Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Move_Unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/Move_Unit.h
+Command.h
+C:/Users/User/CLionProjects/1_faculty/TP/Command.h
+
 C:/Users/User/CLionProjects/1_faculty/TP/Unit.cpp
 Unit.h
 C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
@@ -44,11 +72,41 @@ C:/Users/User/CLionProjects/1_faculty/TP/Unit.h
 string
 -
 
+C:/Users/User/CLionProjects/1_faculty/TP/UnitCreator.cpp
+UnitCreator.h
+C:/Users/User/CLionProjects/1_faculty/TP/UnitCreator.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/UnitCreator.h
+Abstract_Generate_Unit.cpp
+C:/Users/User/CLionProjects/1_faculty/TP/Abstract_Generate_Unit.cpp
+
+C:/Users/User/CLionProjects/1_faculty/TP/War.cpp
+War.h
+C:/Users/User/CLionProjects/1_faculty/TP/War.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/War.h
+Command.h
+C:/Users/User/CLionProjects/1_faculty/TP/Command.h
+Move_Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Move_Unit.h
+Atack_Unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/Atack_Unit.h
+iostream
+-
+
 C:/Users/User/CLionProjects/1_faculty/TP/black_unit.cpp
 black_unit.h
 C:/Users/User/CLionProjects/1_faculty/TP/black_unit.h
 
 C:/Users/User/CLionProjects/1_faculty/TP/black_unit.h
+Decorator.h
+C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/horse_unit.cpp
+horse_unit.h
+C:/Users/User/CLionProjects/1_faculty/TP/horse_unit.h
+
+C:/Users/User/CLionProjects/1_faculty/TP/horse_unit.h
 Decorator.h
 C:/Users/User/CLionProjects/1_faculty/TP/Decorator.h
 

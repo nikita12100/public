@@ -4,12 +4,23 @@
 
 using namespace std;
 
+enum Origin{
+  man = 0,
+  animal
+};
+
 struct Param {
   string name;
   int color;
+  int health;
   int sex;
   int weight;
   int height;
+  int mind;
+  int charisma;
+  int power;
+  int speed;
+  Origin origin;    //  происхождение (человек/зверь)
 };
 
 class Unit {
@@ -27,18 +38,29 @@ class Unit {
   virtual void Set_charisma(int arg);
   virtual void Set_power(int arg);
   virtual void Set_speed(int arg);
+  virtual void Set_origin(int arg);
+
+  virtual int Get_weight();
+  virtual int Get_height();
+  virtual int Get_health();
+  virtual int Get_mind();
+  virtual int Get_charisma();
+  virtual int Get_power();
+  virtual int Get_speed();
+  virtual int Get_origin();
 
  protected:
 
   //// характеристики
   int skin_color;  //цвет кожи персонажа 1-белый 2-черный
   int weight;
-  int heigt;
+  int height;
+  int health;
   int mind;
   int charisma;
   int power;
   int speed;
-
+  Origin origin;
 };
 
 #endif //TP_UNIT_H
